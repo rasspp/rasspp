@@ -23,3 +23,6 @@ I'm a self-taught passionate FrontEnd developer from Indonesian ID
 <code><img height="30" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+### yang di bawah belum di commit
+| <a href="https://github.com/rasspp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rasspp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rasspp github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasspp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
