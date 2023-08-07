@@ -15,7 +15,7 @@ I'm a self-taught passionate FrontEnd developer from Indonesian ID
 - 💬 Ask me about anything [here](https://github.com/rasspp/rasspp/issues)
 
 
-### some of my skills :
+### Some of my skills :
 
 <h2>Skills</h2>
 <hr>
