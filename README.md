@@ -6,9 +6,12 @@ I am a FrontEnd developer from Indonesian ( ID )
 
 **About me**
 
-🔹 FrontEnd Developer ( Go to MERN stack developer.
+🔹 FrontEnd Developer ( Go to MERN stack developer ).
+
 🔹 Go to international freelancers.
+
 🔹 Javascript is my main programming language
+
 🔹 Ask me about anything [here](https://github.com/rasspp/rasspp/issues).
 
 
