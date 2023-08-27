@@ -2,17 +2,14 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Indonesian ID
+I am a FrontEnd developer from Indonesian ( ID )
 
 **About me**
 
-- 💼 FrontEnd Developer at Freelance
-
-- 📈 International Freelancers
-
-- ❤️ I love writing JavaScript applications, and building mini projects that might be useful for many people.
-
-- 💬 Ask me about anything [here](https://github.com/rasspp/rasspp/issues)
+🔹 FrontEnd Developer ( Go to MERN stack developer.
+🔹 Go to international freelancers.
+🔹 Javascript is my main programming language
+🔹 Ask me about anything [here](https://github.com/rasspp/rasspp/issues).
 
 
 ### Some of my skills :
