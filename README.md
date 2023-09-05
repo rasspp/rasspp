@@ -2,7 +2,7 @@
 
 <br />
 
-I am a FrontEnd developer from Indonesian ( ID )
+I am a Frontend developer from Indonesian ( ID )
 
 **About me**
 
