@@ -2,17 +2,16 @@
 
 <br />
 
-I am a Frontend developer from Indonesian ( ID )
+I am a MERN Stack Developer ( Fullstack ) from Indonesian ( ID )
 
 **About me**
 
-🔹 FrontEnd Developer ( Go to MERN stack developer ).
+I am a Fullstack Developer with primary expertise in the MERN Stack (MongoDB, Express, React, Node.js). In addition to JavaScript, I also have proficiency in PHP, although not as strong as JavaScript. I have over 1 year of experience as a Freelance Web Developer, starting when I was in the 2nd year of vocational high school and learning independently during the COVID-19 pandemic.
 
-🔹 Go to international freelancers.
+I am committed to continuously learning and expanding my skills without fear of facing challenges. I believe that strong teamwork is the key to success in building projects. I am ready to provide solutions and achieve goals together. Feel free to contact me anytime. Thank you.
 
-🔹 Javascript is my main programming language
-
-🔹 Ask me about anything [here](https://github.com/rasspp/rasspp/issues).
+**Portfolio**
+[rassp.my.id](https://rassp.my.id)
 
 
 ### Some of my skills :
@@ -27,8 +26,9 @@ I am a Frontend developer from Indonesian ( ID )
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" alt="jquery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code>more details at Rassp.my.id</code>
 <hr>
 
 
