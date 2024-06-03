@@ -2,13 +2,13 @@
 
 <br />
 
-I am a MERN Stack Developer ( Fullstack ) from Indonesian ( ID )
+I am a Fullstack Javascript from Indonesian ( ID )
 
 **About me**
 
-I am a Fullstack Developer with primary expertise in the MERN Stack (MongoDB, Express, React, Node.js). In addition to JavaScript, I also have proficiency in PHP, although not as strong as JavaScript. I have over 1 year of experience as a Freelance Web Developer, starting when I was in the 2nd year of vocational high school and learning independently during the COVID-19 pandemic.
+I am a Fullstack JavaScript Developer with over 2 years of experience, proficient in the MERN Stack.
 
-I am committed to continuously learning and expanding my skills without fear of facing challenges. I believe that strong teamwork is the key to success in building projects. I am ready to provide solutions and achieve goals together. Feel free to contact me anytime. Thank you.
+I have a vision to always stay up-to-date with the latest technologies, a mindset of "must and can" that I consistently instill in myself.
 
 **Portfolio**
 [rassp.my.id](https://rassp.my.id)
