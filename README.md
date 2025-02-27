@@ -11,7 +11,7 @@ I am a Fullstack JavaScript Developer with over 2 years of experience, proficien
 I have a vision to always stay up-to-date with the latest technologies, a mindset of "must and can" that I consistently instill in myself.
 
 **Portfolio**
-[rassp.my.id](https://rassp.my.id)
+[uppertech.my.id](https://uppertech.my.id)(On Development)
 
 
 ### Some of my skills :
